@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="E-Commerce Test Automation Suite" duration-ms="115286" started-at="2022-01-01T08:14:05Z" finished-at="2022-01-01T08:16:01Z">
+    <groups>
+    </groups>
+    <test name="E-Commerce Test" duration-ms="115286" started-at="2022-01-01T08:14:05Z" finished-at="2022-01-01T08:16:01Z">
+      <class name="com.ecommerce.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="SetUP()" name="SetUP" is-config="true" duration-ms="12669" started-at="2022-01-01T08:14:05Z" finished-at="2022-01-01T08:14:18Z">
+        </test-method>
+        <test-method status="PASS" signature="aboutUsPageTitleTest()" name="aboutUsPageTitleTest" duration-ms="29" started-at="2022-01-01T08:14:18Z" finished-at="2022-01-01T08:14:18Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="1255" started-at="2022-01-01T08:14:18Z" finished-at="2022-01-01T08:14:19Z">
+        </test-method>
+        <test-method status="PASS" signature="SetUP()" name="SetUP" is-config="true" duration-ms="11062" started-at="2022-01-01T08:14:58Z" finished-at="2022-01-01T08:15:09Z">
+        </test-method>
+        <test-method status="PASS" signature="logoImgTest()" name="logoImgTest" duration-ms="66" started-at="2022-01-01T08:15:09Z" finished-at="2022-01-01T08:15:10Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="1188" started-at="2022-01-01T08:15:10Z" finished-at="2022-01-01T08:15:11Z">
+        </test-method>
+        <test-method status="PASS" signature="SetUP()" name="SetUP" is-config="true" duration-ms="10527" started-at="2022-01-01T08:15:27Z" finished-at="2022-01-01T08:15:38Z">
+        </test-method>
+        <test-method status="PASS" signature="signInTest()" name="signInTest" duration-ms="3424" started-at="2022-01-01T08:15:38Z" finished-at="2022-01-01T08:15:41Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="1190" started-at="2022-01-01T08:15:41Z" finished-at="2022-01-01T08:15:43Z">
+        </test-method>
+      </class>
+      <class name="com.ecommerce.qa.testcases.RegistrationPageTest">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="13910" started-at="2022-01-01T08:14:36Z" finished-at="2022-01-01T08:14:50Z">
+        </test-method>
+        <test-method status="PASS" signature="validateCreateNewUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)" name="validateCreateNewUser" duration-ms="6908" started-at="2022-01-01T08:14:50Z" finished-at="2022-01-01T08:14:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mr.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tom]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Peter]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[test123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Tom]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Peter]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[459,Downlane]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Florida]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[New York]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[42209.0]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[United States]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[9.8877655E7]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[459,Downlane]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="1344" started-at="2022-01-01T08:14:57Z" finished-at="2022-01-01T08:14:58Z">
+        </test-method>
+      </class>
+      <class name="com.ecommerce.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="13970" started-at="2022-01-01T08:14:19Z" finished-at="2022-01-01T08:14:33Z">
+        </test-method>
+        <test-method status="PASS" signature="loginPageTitleTest()" name="loginPageTitleTest" duration-ms="25" started-at="2022-01-01T08:14:33Z" finished-at="2022-01-01T08:14:33Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="1650" started-at="2022-01-01T08:14:33Z" finished-at="2022-01-01T08:14:35Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="13237" started-at="2022-01-01T08:15:11Z" finished-at="2022-01-01T08:15:24Z">
+        </test-method>
+        <test-method status="PASS" signature="loginTest()" name="loginTest" duration-ms="2133" started-at="2022-01-01T08:15:24Z" finished-at="2022-01-01T08:15:26Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="1293" started-at="2022-01-01T08:15:26Z" finished-at="2022-01-01T08:15:27Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="13521" started-at="2022-01-01T08:15:43Z" finished-at="2022-01-01T08:15:56Z">
+        </test-method>
+        <test-method status="PASS" signature="createAccountTest()" name="createAccountTest" duration-ms="3292" started-at="2022-01-01T08:15:56Z" finished-at="2022-01-01T08:15:59Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="1323" started-at="2022-01-01T08:15:59Z" finished-at="2022-01-01T08:16:01Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

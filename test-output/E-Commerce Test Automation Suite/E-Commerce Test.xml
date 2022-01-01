@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="G864098-W10" name="com.ecommerce.qa.testcases.HomePageTest" tests="7" failures="0" timestamp="1 Jan 2022 02:46:01 GMT" time="115.286" errors="0">
+  <testcase name="aboutUsPageTitleTest" time="0.029" classname="com.ecommerce.qa.testcases.HomePageTest"/>
+  <testcase name="loginPageTitleTest" time="0.025" classname="com.ecommerce.qa.testcases.LoginPageTest"/>
+  <testcase name="validateCreateNewUser" time="6.908" classname="com.ecommerce.qa.testcases.RegistrationPageTest"/>
+  <testcase name="logoImgTest" time="0.066" classname="com.ecommerce.qa.testcases.HomePageTest"/>
+  <testcase name="loginTest" time="2.133" classname="com.ecommerce.qa.testcases.LoginPageTest"/>
+  <testcase name="signInTest" time="3.424" classname="com.ecommerce.qa.testcases.HomePageTest"/>
+  <testcase name="createAccountTest" time="3.292" classname="com.ecommerce.qa.testcases.LoginPageTest"/>
+</testsuite>
